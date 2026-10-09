@@ -1,11 +1,7 @@
-# CheckPoint 2 - Lista de Compras 🛒
+# Lista de Compras | CheckPoint 2
+ Cross-Platform Application Development
 
-**Disciplina:** Cross-Platform Application Development
-
-## 👩‍💻 Autora
-* **Nome:** Isabela Marques de Oliveira
-* **RM:** 567230
-
-## 📱 Sobre o Projeto
-Este projeto é uma aplicação React Native desenvolvida para o CheckPoint 2 da disciplina de Cross-Platform Application Development. O objetivo principal da aplicação é ser uma Lista de Compras simples, permitindo ao utilizador introduzir e adicionar novos itens dinamicamente à interface.
-
+* **Nome:** Isabelle Ramos de Filippis
+* **RM:** 566783
+# Sobre a Aplicação
+Este aplicativo foi construído utilizando React Native como requisito avaliativo do CheckPoint 2. A proposta do projeto é entregar uma ferramenta funcional e direta para o gerenciamento de compras, onde o usuário consegue digitar, registrar e visualizar novos produtos de maneira totalmente dinâmica na tela.
